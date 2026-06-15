@@ -139,3 +139,5 @@ Gaurav Kumar
 Data Analytics Enthusiast | Power BI | Excel | Python
 
 Internship Assignment Submission – NayePankh Foundation
+
+![Dashboard Preview](https://github.com/Gaurav0158/NayePankh-Foundation-Analytics-Dashboard/blob/main/NayePankh%20Dashboard.jpg)
